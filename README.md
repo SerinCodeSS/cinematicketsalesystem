@@ -5,9 +5,9 @@
 This project includes a cinema ticket booking application developed using HTML, CSS, and JavaScript. It is designed to facilitate cinema ticket sales and reservations.
 
 Technologies Used:
-*HTML
-*CSS
-*JavaScript
+-HTML
+-CSS
+-JavaScript
 
 
 
