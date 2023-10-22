@@ -11,4 +11,8 @@ Technologies Used:
 
 
 
-![Uploading cinema .gif…]()
+
+https://github.com/SerinCodeSS/cinematicketsalesystem/assets/143172950/b8c0d9c4-7d32-474f-9010-24daaf6dedf5
+
+
+
